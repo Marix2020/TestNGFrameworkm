@@ -11,7 +11,7 @@
 	
 	<test name="Login to Hotel Page">
 		<classes>
-			<class name="tests.Hotellogin" />
+			<class name="tests.HotelLogin" />
 		</classes>
 	</test>
 </suite>
